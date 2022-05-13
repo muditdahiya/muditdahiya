@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muditdahiya
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently mastering ReactJS
 - 📫 You can reach me on muditd99@gmail.com
 
 <!---
