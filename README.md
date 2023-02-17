@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muditdahiya
 - 👀 I’m interested in software development.
 - 🌱 I’m currently mastering ReactJS
-- 📫 You can reach me on muditd99@gmail.com
+- 📫 You can reach me on contact@muditdahiya.com
 
 <!---
 muditdahiya/muditdahiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
